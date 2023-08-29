@@ -1,0 +1,26 @@
+﻿Patient Number,Temperature of Patient ( ⁰C ),Nausea,Lumbar Pain,Urine Pushing,Micturition Pain,Burning on Urination,Bladder Inflamation,Nephritis
+1,35.5,no,yes,no,no,no,no,no
+2,36,no,yes,no,no,no,no,no
+3,36.3,no,no,yes,yes,yes,yes,no
+4,36.7,no,no,yes,yes,yes,yes,no
+5,37,no,no,yes,yes,no,yes,no
+6,37.1,no,yes,no,no,no,no,no
+7,37.2,no,no,yes,no,no,yes,no
+8,37.5,no,no,yes,yes,no,yes,no
+9,37.7,no,no,yes,yes,no,yes,no
+10,37.9,no,no,yes,yes,no,yes,no
+11,38,no,yes,yes,no,yes,no,yes
+12,38.9,no,yes,yes,no,yes,no,yes
+13,40,no,no,no,no,no,no,no
+14,40.2,yes,yes,yes,yes,yes,yes,yes
+15,40.5,yes,yes,yes,yes,no,yes,yes
+16,40.7,yes,yes,yes,yes,no,yes,yes
+17,40.9,no,yes,yes,no,yes,no,yes
+18,41,no,yes,yes,no,yes,no,yes
+19,41.2,yes,yes,no,yes,no,no,yes
+20,41.5,no,yes,yes,no,yes,no,yes
+21,36.2,no,yes,no,no,no,no,no
+22,37.5,no,yes,no,no,no,no,no
+23,38.7,no,yes,yes,no,yes,no,yes
+24,40.6,yes,yes,no,yes,no,no,yes
+25,41.2,yes,yes,yes,yes,yes,yes,yes
