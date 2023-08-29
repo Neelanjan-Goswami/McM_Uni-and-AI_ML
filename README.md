@@ -1,1 +1,1 @@
-# McM_Uni-and-Ai_ML
+# McM_Uni-and-AI_ML
