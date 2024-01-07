@@ -1,4 +1,4 @@
-# The GitHub file locations to:
+# The GitHub file locations to ECE 718 [Sept-Dec2023] (ECE 710 is a typing mistake):
 
 ### Assignment 1: https://github.com/ECE718-Fall2023/assignment1-caches-Neelanjan-Goswami
 
